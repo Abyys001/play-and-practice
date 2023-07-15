@@ -2,12 +2,10 @@
 
 """
 """
-import pdb
 
 
 def lazy_hacker():
     # taking data and cleaning 
-
 
     total_tasks = int(input())
     taks_times = input()
@@ -25,7 +23,7 @@ def lazy_hacker():
     # flag = True
 
     # while flag:
- 
+
     #     if len(tasks) >= 2:
 
     #         del tasks[0:2]
@@ -37,7 +35,6 @@ def lazy_hacker():
     #     else:
     #         flag = False
     return tasks
-
 
 
 if __name__ == "__main__":
